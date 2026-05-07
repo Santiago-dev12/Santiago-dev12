@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫Acerca de mí
-🔭 Actualmente soyegresado de la **UTEZ Morelos** y me especializo en el desarrollo  y gestión de software.
+🔭 Actualmente soy egresado de la **UTEZ Morelos** de la carrera de Ingenieria en Desarrollo y Gestión de Software y me e
   
 🌱 Me estoy enfocando en **Desarrollo Web** (usando React, MySQL) y **Desarrollo Backend** (usando Java con Spring Boot), y tengo experiencia manejando servicios de **AWS**.
 
